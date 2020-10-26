@@ -1,2 +1,2 @@
-# EA102
+# EA102G1
 WeddingNavi
